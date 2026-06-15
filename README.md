@@ -19,6 +19,12 @@ An AI-powered college information assistant built using Python, Gradio, and Groq
 - Gradio
 - Groq LLM
 
+## Screenshots
+
+- [Home Screen](assets/IMG_2836.jpeg)
+- [Chat Demo](assets/IMG_2837.jpeg)
+- [Additional Screenshot](assets/IMG_2839.jpeg)
+
 ## Future Improvements
 
 - RAG-based retrieval
