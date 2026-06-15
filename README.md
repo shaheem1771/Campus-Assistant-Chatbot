@@ -2,8 +2,10 @@
 
 An AI-powered college information assistant built using Python, Gradio, and Groq LLM.
 
-## Features
+## Live Demo
+https://shaheem1771-lbs-connect.hf.space
 
+## Features
 - AI-powered chatbot
 - Course and department information
 - Admission guidance
