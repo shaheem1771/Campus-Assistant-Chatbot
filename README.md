@@ -4,7 +4,7 @@ An AI-powered college information assistant developed for providing quick and ac
 
 ##  Live Demo
 
-https://shaheem1771-lbs-connect.hf.space
+https://shaheem1771-lbsconnect.hf.space
 
 ---
 
