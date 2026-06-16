@@ -32,6 +32,22 @@ https://shaheem1771-lbsconnect.hf.space
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home](assets/ECA95204-52C1-4AFC-9A6D-0CBC96F19F3C.jpeg)
+
+### FAQ Section
+![FAQ](assets/IMG_2836.jpeg)
+
+### Chat Interface
+![Chat](assets/IMG_2837.jpeg)
+
+### Response Example
+![Response](assets/IMG_2839.jpeg)
+
+---
+
 ##  Project Structure
 
 ```text
